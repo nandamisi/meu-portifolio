@@ -8,12 +8,6 @@ main {
     overflow-x: hidden;
 }
 
-
-
-
-
-
-
 .nav-bar {
     background-color: #ffffff;
     padding: 10px 20px;
@@ -37,17 +31,6 @@ main {
 .nav-list li a:hover {
     color: #FF6464;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .hero-section {
     max-width: 900px;
@@ -352,6 +335,3 @@ footer {
                 height: 100px;
             }
             }
-
-            
-
